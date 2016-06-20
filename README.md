@@ -2,6 +2,9 @@
 
 My attempt to make a CLI based chat client using Firebase and Typescript. 
 
+![Screenshot]
+(https://github.com/esafirm/js-firebase-terminal-chat/blob/master/art/ss1.png)
+
 ## Prerequisite 
 
 We need to setup our Firebase first, the easiest is to download service account's credential, rename it to `firebase.json` and copy it to our project.
